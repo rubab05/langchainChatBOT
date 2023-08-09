@@ -1,9 +1,8 @@
-# langchainChatBOT
-A chatbot using langchain for a university (FAST) backed with a database (mongodb) storing chat history
+# React + Vite
 
-# TO RUN
-run the embedding creation notebook to create and store embeddings for the data to be queried in your current working directory
-run the FASTAPI_BOT {insert your hugging face token and mongodb connetion string}
-An api will be generated click on it and "api/docs"
-Press try it out then enter your id and query 
-wait for the response and BINGOO
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
