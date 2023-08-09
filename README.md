@@ -8,8 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
   # chat interface commands
--npm create vite@latest app -- --template react
--cd app
--npm install
--npm install @chatscope/chat-ui-kit-react
--npm run dev //to run
+- npm create vite@latest app -- --template react,
+- cd app,
+- npm install,
+- npm install @chatscope/chat-ui-kit-react,
+- npm run dev //to run
